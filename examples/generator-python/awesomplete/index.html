@@ -1,0 +1,45 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<style>
+			input{
+				text-align:center;
+			}
+		</style>
+	</head>
+
+
+
+<body id="body">
+	<center>
+		<input value=" " type=text id="search_input" placeholder="Buscar QRCODE por nome" onkeydown="if (event.keyCode == 13) return false;"><br>
+		<br>
+		<img href="" id="display">
+	</center>
+</body>
+
+
+
+
+<link rel="stylesheet" href="css/awesomplete.css" /> <script src="js/awesomplete.js"></script>
+
+
+<!-- Cria uma variavel que eh uma lista contendo os nomes e logins dos alunos do departamento
+Caso queira gerar os arquivos novamente, execute os seguintes comandos no bash:
+
+cd /home/bcc
+finger * | grep "Login"> ~/finger.txt
+echo "nomesBCC = [" > ~/bcc.json; cat ~/finger.txt | sed -r "s/Login: /{login:\"/g" | sed -r "s/Name: /,name:\"/g" | awk -F, '{gsub(/\t/,"",$1); gsub(/ /,"",$1); print $1"\""; print $2"\"},"}' | sed -r "s/name/,name/g" >> ~/bcc.json; echo "]" >> ~/bcc.json
+
+
+-->
+
+
+<script src="names.json"></script>  <!-- var nomesBCC -->
+
+
+<script src="main.js"></script>
+
+
+</html>

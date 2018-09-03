@@ -1,0 +1,788 @@
+nomesBCC = [
+{login:"aabb11"
+,name:"Arylson Arruda Bueno"},
+{login:"aafj16"
+,name:"ANDREI ALISSON FERREIRA JULIO"},
+{login:"aam12"
+,name:"ALEXANDRE AUGUSTO MULLER"},
+{login:"aam15"
+,name:"ALESSANDRO AKIRA MOLOSSI"},
+{login:"aasdr14"
+,name:"ANNA ALICE DE SOUZA DIAS ROBBI"},
+{login:"aasg13"
+,name:"ALUISIO AUGUSTO SILVA GONCALVES"},
+{login:"abrm17"
+,name:"ANDRE BARREIRO ROBERTI MARTINS"},
+{login:"abw17"
+,name:"ANDRE BERNARDO WOSNIACK"},
+{login:"acfm16"
+,name:"ANA CAROLINA FARIA MAGNONI"},
+{login:"ach13"
+,name:"ANDRE CORREA HARADA"},
+{login:"acq14"
+,name:"ARTHUR CARVALHO DE QUEIROZ"},
+{login:"ae11"
+,name:"ALESSANDRO ELIAS"},
+{login:"af16"
+,name:"ANDREW FERNANDES"},
+{login:"afas15"
+,name:"ANDRE FELIPE ALVES STAROSTA"},
+{login:"afbc16"
+,name:"ABNER FONTEBOM BISSOLLI COSTA"},
+{login:"afbf17"
+,name:"ANDRE FELIPE BLANCO FERNANDES"},
+{login:"afo12"
+,name:"ANDRE FAVARO DE OLIVEIRA"},
+{login:"agmz12"
+,name:"ALAN GONZALEZ MEGER ZANGRANDI"},
+{login:"agp10"
+,name:"ADRIANO GUARESCHI PENA"},
+{login:"agp15"
+,name:"ALEXEY GABRIEL PAPALEXIOU"},
+{login:"agr16"
+,name:"ALEJANDRO GEMIN ROSALES"},
+{login:"ahl11"
+,name:"ALEXANDRE HASSELMANN LANGE"},
+{login:"akc17"
+,name:"ALESSANDRA KARINE CARNEIRO"},
+{login:"akl17"
+,name:"ALINE KRAJUSKA LOPES"},
+{login:"ala13"
+,name:"ANA LAURA DE ARAUJO"},
+{login:"alk17"
+,name:"ALEXSANDER DE LIMA KINOSHITA"},
+{login:"alsm10"
+,name:"ANDREY LINCON SCHULTZ MENDES"},
+{login:"alsm14"
+,name:"ANDRE LUIS DA SILVA MACHADO"},
+{login:"alt15"
+,name:"ANDRE LUIZ TERENCIO"},
+{login:"am10"
+,name:"ANNELISE MIRANDA"},
+{login:"ambo10"
+,name:"ANDRE DE MELLO BOEIRA"},
+{login:"amgp15"
+,name:"AMANDA GABRIELLE POLANSKI"},
+{login:"amj15"
+,name:"ALCEMIR MOCELIN JUNIOR"},
+{login:"apa13"
+,name:"ALEXANDRE PERES ARIAS"},
+{login:"apb14"
+,name:"ARIANNE DE PAULA BORTOLAN"},
+{login:"apt14"
+,name:"ARTHUR PEDRI TREVISOL"},
+{login:"aras10"
+,name:"ARYANE AST DOS SANTOS"},
+{login:"asc12"
+,name:"ALINE SANTANA CORDEIRO"},
+{login:"asc16"
+,name:"ALEXANDRE DE SOUZA CARNEIRO"},
+{login:"asms13"
+,name:"ANDERSON SANTANA MONTEIRO DOS SANTOS"},
+{login:"ass11"
+,name:"ANDRESSA SCHAFF STEFFENS"},
+{login:"atj09"
+,name:"AURELIO THOMASI JUNIOR"},
+{login:"atmla15"
+,name:"ADOLFO TOGNETTI MELO LIMA ARAUJO"},
+{login:"avc17"
+,name:"ANDREY VASCONCELOS CHAVES"},
+{login:"avfc17"
+,name:"ANDRE VICTOR FOCHESATTO CORDEIRO"},
+{login:"avr16"
+,name:"AXEL VALENE ROCHA"},
+{login:"aws08"
+,name:"ADOLFO WELYNTON SABINO"},
+{login:"ba15"
+,name:"Bright Appiah"},
+{login:"bb10"
+,name:"BRUNO BERTONI"},
+{login:"bc16"
+,name:"BIBINSON  CELISSAINT"},
+{login:"bf15"
+,name:"BERNARDO FERRARI"},
+{login:"bfc10"
+,name:"BRUNO FANTIN DA COSTA"},
+{login:"bfm13"
+,name:"BRUNA DE FREITAS MACIEL"},
+{login:"bfs15"
+,name:"BRUNO FREITAS SERBENA"},
+{login:"bft15"
+,name:"BRUNO FREITAS TISSEI"},
+{login:"bhl16"
+,name:"BRUNO HENRIQUE LABRES"},
+{login:"bhps17"
+,name:"BRENDON HENRIQUE DE PAULA DA SILVA"},
+{login:"bnb11"
+,name:"BRUNO NEBESNIAK BERTOLDI"},
+{login:"bov17"
+,name:"BRUNO OSHIRO VIEIRA"},
+{login:"bys14"
+,name:"BRUNO YUJI SATO"},
+{login:"caac16"
+,name:"CESAR AUGUSTO ALVES CAMILLO"},
+{login:"cab10"
+,name:"CESAR AUGUSTO BOEIRA"},
+{login:"calm11"
+,name:"CAROLINA APARECIDA DE LARA MORAES"},
+{login:"ccq16"
+,name:"CAYO CORTEZ DE QUEIROZ"},
+{login:"cct11"
+,name:"CAINA COSTA TREVISAN"},
+{login:"cdhd12"
+,name:"CLARA DAIA HILGENBERG DARU"},
+{login:"cdp15"
+,name:"CAROLINA DAMIN PANIAGO"},
+{login:"clac16"
+,name:"CRISTOPHER LUIZ ASSAD CARCERERI"},
+{login:"cogr13"
+,name:"CAUE OLIVEIRA GOBBO RODRIGUES"},
+{login:"crs13"
+,name:"CAIO RODRIGUES DA SILVA"},
+{login:"cw14"
+,name:"CRISTIAN WEILAND"},
+{login:"cyn13"
+,name:"CASSIANO YUDI NISHIGUCHI"},
+{login:"dac17"
+,name:"DOUGLAS AFFONSO CLEMENTINO"},
+{login:"dbb15"
+,name:"DUWAN BORDINHAO BASSANI"},
+{login:"dbf15"
+,name:"DANIEL BISSANI FURLIN"},
+{login:"ddf14"
+,name:"DANIEL DELLAGRANNA FEDALTO"},
+{login:"deb14"
+,name:"DAVID EDUARDO BERTONCELLO"},
+{login:"dezp12"
+,name:"DANIEL ENZO ZULPO PEREIRA"},
+{login:"dgr14"
+,name:"DIEGO GRACIANO ROESSLE"},
+{login:"dhp14"
+,name:"DAVISSON HENRIQUE PAULINO"},
+{login:"dhsr12"
+,name:"DIEGO HIRT SANTOS RODRIGUES"},
+{login:"dimo13"
+,name:"DALMON IAN MARTINS OLIVEIRA"},
+{login:"dobn17"
+,name:"DANIEL OSTERNACK BARROS NEVES"},
+{login:"doc17"
+,name:"DAYANE OLIVEIRA DE CARVALHO"},
+{login:"dpk16"
+,name:"DIOGO PARIS KRAUT"},
+{login:"drp17"
+,name:"DJENIFER RENATA PEREIRA"},
+{login:"dsa17"
+,name:"DANTE DA SILVA ALEO"},
+{login:"dsot10"
+,name:"Diego Silva de Oliveira Tomaz"},
+{login:"dvr13"
+,name:"DANIEL VITOR RUIZ"},
+{login:"dza15"
+,name:"DOUGLAS ZAIA ADAM"},
+{login:"eam16"
+,name:"EDUARDO AUGUSTO MAIA"},
+{login:"econ13"
+,name:"ERICK CEZAR OLIVEIRA NASCIMENTO"},
+{login:"edh16"
+,name:"EDUARDA HEMMIG"},
+{login:"eeb13"
+,name:"Eric Eduardo Bunese"},
+{login:"eht17"
+,name:"EDUARDO HENRIQUE TREVISAN"},
+{login:"els14"
+,name:"ERIC LOW SCHMIDT"},
+{login:"emm14"
+,name:"EDUARDO MAIA MACHADO"},
+{login:"emm17"
+,name:"ENZO MARUFFA MOREIRA"},
+{login:"enba14"
+,name:"EGON NATHAN BITTENCOURT ARAUJO"},
+{login:"ent13"
+,name:"ENRIS NOGARE VON TEIN"},
+{login:"epbs13"
+,name:"ERMELINDO PAULO BREVIGLIERI SCHULTZ"},
+{login:"ept15"
+,name:"ERICO PIZZATO TAVORA"},
+{login:"esr17"
+,name:"EDUARDO STARIUM REMPEL"},
+{login:"etnt16"
+,name:"ERIK TADASHI NAGAKI TANAKA"},
+{login:"ewg17"
+,name:"EDER WILLIAN GREAFF"},
+{login:"fas16"
+,name:"FERNANDO AOYAGUI SHINOHATA"},
+{login:"favm17"
+,name:"FABIANO AIZAWA VALENCA DE MELLO"},
+{login:"fce15"
+,name:"FERNANDO CLAUDECIR ERD"},
+{login:"fcm15"
+,name:"FABIO CERVI DE MELLO"},
+{login:"fcp16"
+,name:"FERNANDA CASSEMIRO PEREIRA"},
+{login:"fen15"
+,name:"FABIANO ENGLER NETO"},
+{login:"fff12"
+,name:"FERNANDO FUTOSHI FUJIOKA"},
+{login:"fgc16"
+,name:"FERNANDA GUIMARAES CHAPULA"},
+{login:"fgs12"
+,name:"FELIPE GARCIA DE SOUZA"},
+{login:"fhb16"
+,name:"FABIO HENRIQUE BORECKI"},
+{login:"flm17"
+,name:"FELIPE DE LIMA MESQUITA"},
+{login:"flp15"
+,name:"FELIPE LOPES PEREIRA"},
+{login:"fmd14"
+,name:"FERNANDO MEDEIROS DUFUR"},
+{login:"fmk17"
+,name:"FERNANDO MONTEIRO KIOTHEKA"},
+{login:"fn10"
+,name:"FELIPE DO NASCIMENTO"},
+{login:"fps10"
+,name:"FLORENCE PEREIRA DA SILVA"},
+{login:"frb01"
+,name:"FERNANDO RODRIGO BILINSKI"},
+{login:"frq17"
+,name:"FELIPE RIBEIRO QUILES"},
+{login:"fsdp15"
+,name:"FELIPE DOS SANTOS DOTTI DO PRADO"},
+{login:"fsiw15"
+,name:"FELIPE SHI IU WU"},
+{login:"fvg16"
+,name:"FABIO VELASCO GOBBO"},
+{login:"fymn17"
+,name:"FELIPE YUDI MIYOSHI NAKAMOTO"},
+{login:"gac13"
+,name:"GABRIEL ALCIDES CARRARO"},
+{login:"gas15"
+,name:"GUSTAVO ASCHWANDEN SOVIERSOVSKI"},
+{login:"gase16"
+,name:"GABRIEL DE ALMEIDA SALES EVARISTO"},
+{login:"gba12"
+,name:"GUSTAVO BARROS DE ALCANTARA"},
+{login:"gba17"
+,name:"GUILHERME BECKER AGGE"},
+{login:"gbab17"
+,name:"GUSTAVO BOTELHO ABE"},
+{login:"gbbs14"
+,name:"GUILHERME BITTENCOURT BUENO DA SILVA"},
+{login:"gbn15"
+,name:"GERHARD BESSER NETO"},
+{login:"gbo16"
+,name:"GUILHERME BASTOS DE OLIVEIRA"},
+{login:"gfur15"
+,name:"GABRIEL FRANCISCO URBA ROLLE"},
+{login:"ggs12"
+,name:"GUILHERME GOMES DOS SANTOS"},
+{login:"ghm16"
+,name:"GUSTAVO HORNIG DE MEIRA"},
+{login:"ghpf15"
+,name:"GABRIEL HENRIQUE PEREIRA FIGUEROA"},
+{login:"ghss11"
+,name:"GUSTAVO HUIDA SA DOS SANTOS"},
+{login:"gkf16"
+,name:"GABRIEL KOZIEVITCH FRANCA"},
+{login:"gln11"
+,name:"GUILHERME LOPES DO NASCIMENTO"},
+{login:"gmb11"
+,name:"GUILHERME MANTEUFFEL BETTU"},
+{login:"gmls16"
+,name:"GUILHERME MORAIS LOPES DOS SANTOS"},
+{login:"gms15"
+,name:"GIOVANNE MARCELO DOS SANTOS"},
+{login:"gpm13"
+,name:"GISELE DE PAULA MARTINS"},
+{login:"gpt16"
+,name:"GLENDA PROENCA TRAIN"},
+{login:"grb15"
+,name:"GABRIELE RODRIGUES BRANCALHAO"},
+{login:"grc15"
+,name:"GABRIEL RUSCHEL CASTANHEL"},
+{login:"grs14"
+,name:"GIOVANNI ROSA DA SILVA"},
+{login:"grtt17"
+,name:"GUSTAVO ROBERTO TOBIAS TOMAZ"},
+{login:"gs17"
+,name:"GABRIELA STEIN"},
+{login:"gsa13"
+,name:"GABRIEL SALOMON ANICETO"},
+{login:"gsb08"
+,name:"GUILHERME SECONDE BOZELLI"},
+{login:"gsb16"
+,name:"GABRIEL DE SOUZA BARRETO"},
+{login:"gsr16"
+,name:"GUILHERME SCARIOT RAMOS"},
+{login:"gss17"
+,name:"GABRIEL DE SOUZA SANTOS"},
+{login:"gvcc15"
+,name:"GABRIEL VINICIUS CANZI CANDIDO"},
+{login:"gvs17"
+,name:"GABRIEL DO VALE DOS SANTOS"},
+{login:"gyk15"
+,name:"GABRIELA YUKARI KIMURA"},
+{login:"hce13"
+,name:"HENRIQUE COLODETTI ESCANFERLA"},
+{login:"hcp12"
+,name:"HENRIQUE CHAVES PACHECO"},
+{login:"hi15"
+,name:"HAMER IBOSHI"},
+{login:"hln17"
+,name:"HENRY LUIZ NAUFFAL"},
+{login:"hs17"
+,name:"HENRIQUE SCHENFELD"},
+{login:"ibp12"
+,name:"IGOR BRAGIO PERSONA"},
+{login:"ibr13"
+,name:"ISRAEL BARTH RUBIO"},
+{login:"ibsa14"
+,name:"ISRAEL BARRETO SANT ANNA"},
+{login:"ifp15"
+,name:"ISRAEL FELIPE PRATES"},
+{login:"im16"
+,name:"ISABELA MATTOSO"},
+{login:"imu17"
+,name:"IGOR MICHEL ULBRICH"},
+{login:"isbj15"
+,name:"IVO DE SOUZA BUENO JUNIOR"},
+{login:"isf17"
+,name:"IGOR SEGALLA FARIAS"},
+{login:"issm13"
+,name:"IGOR SERGIO DA SILVA MANOEL"},
+{login:"jasm16"
+,name:"JHOSER ALAFF DOS SANTOS MATHEUS"},
+{login:"jb15"
+,name:"JULIO BACK"},
+{login:"jbcnj15"
+,name:"JOAO BATISTA CABRAL DO NASCIMENTO JUNIOR"},
+{login:"jcdj17"
+,name:"JOAO CARLOS DELAY JUNIOR"},
+{login:"jcld14"
+,name:"JULIO CESAR LUPPI DOEBELI"},
+{login:"jcm13"
+,name:"JULIANO CREPPO MENDIETA"},
+{login:"jcpp16"
+,name:"JULIO CESAR PEPPLOW PARODI"},
+{login:"jdrc13"
+,name:"JOAO DENIS RODRIGUES CABRAL"},
+{login:"jfbn10"
+,name:"JAQUELINE FERNANDA BORGES NANDE"},
+{login:"jgcs17"
+,name:"JEAN GUILHERME CARRARO DA SILVA"},
+{login:"jgm"
+,name:"JEAN GALVAO MACHADO"},
+{login:"jhmrds13"
+,name:"JOAO HENRIQUE M REBELO DALL STELLA"},
+{login:"jla10"
+,name:"JEAN LUCAS DE ARAUJO"},
+{login:"jlmr12"
+,name:"Joao Lucas Mocochinski Ribeiro"},
+{login:"jlsap17"
+,name:"JEFFERSON LUIS STEFANI ALVES PEREIRA"},
+{login:"jmb15"
+,name:"JEDIAN MARCOS BRAMBILLA"},
+{login:"jmpf13"
+,name:"JOAO MANOEL PAMPANINI FILHO"},
+{login:"jns15"
+,name:"JOEL NARCIZO SANTOS"},
+{login:"jok13"
+,name:"JONATAN OTAVIO KORELLO"},
+{login:"jpmo17"
+,name:"JOAO PEDRO DE MATOS DE OLIVEIRA"},
+{login:"jpmol17"
+,name:"JOAO PEDRO MENDONCA OLIVEIRA"},
+{login:"jrb13"
+,name:"JHEFERSON RENAN BORGES"},
+{login:"jrb17"
+,name:"JACKSON ROSSI BORGUEZANI"},
+{login:"jrs14"
+,name:"JONATHAN RODRIGUES SZLACHTA"},
+{login:"jsc14"
+,name:"JONAS SILVEIRA DA COSTA"},
+{login:"jsg17"
+,name:"JEFFERSON DA SILVA GARCIA"},
+{login:"jss17"
+,name:"JANE SANTTANNA DOS SANTOS"},
+{login:"jvgf17"
+,name:"JOAO VITOR GUALBERTO FIGUEIREDO"},
+{login:"jvm17"
+,name:"JOAO VITOR MOREIRA"},
+{login:"jvsc14"
+,name:"JOAO VICTOR DA SILVA CARDOSO"},
+{login:"kaaa10"
+,name:"KARIN ANGELA ANGELITA ANDRADE"},
+{login:"kac14"
+,name:"KAIO AUGUSTO DE CAMARGO"},
+{login:"kaf15"
+,name:"KOSSI ANDERSON FINOU"},
+{login:"khkk17"
+,name:"KOKOUVI HOLA KANYI KODJOVI"},
+{login:"khs16"
+,name:"KAIO HENRIQUE DOS SANTOS"},
+{login:"kjea16"
+,name:"KOETE JACOB EMMANUEL AMONY"},
+{login:"kjs15"
+,name:"KELVIN JAVORSKI SOARES"},
+{login:"kk11"
+,name:"Kevin Katzer"},
+{login:"kmml12"
+,name:"KATARINE MARIA MENEZES LEAL"},
+{login:"kz14"
+,name:"KATRINY ZAMPRONI"},
+{login:"lab12"
+,name:"LUIZ ADOLPHO BARONI"},
+{login:"ladp17"
+,name:"LEONARDO ANTONIO DIAS PEREIRA"},
+{login:"lafs10"
+,name:"LUIS AUGUSTO FERRAZ DE SOUZA"},
+{login:"laoi12"
+,name:"LUCAS AKIHIKO OSATO IKEDA"},
+{login:"lap15"
+,name:"LUCAS ALEIXO DE PAULA"},
+{login:"laps15"
+,name:"LEONARDO AUGUSTO PAULINO STROZZI"},
+{login:"lat16"
+,name:"LEONARDO AUGUSTO TEIXEIRA"},
+{login:"laxm11"
+,name:"LUCAS AFFONSO XAVIER DE MORAIS"},
+{login:"lbc16"
+,name:"LUCAS BRAZ CUNHA"},
+{login:"lbn14"
+,name:"LUCAS BERNARDI NEGRINI"},
+{login:"lbr14"
+,name:"LEANDRO BERTAZZO RODRIGUES"},
+{login:"lbv17"
+,name:"LUCAS BLOCK VILLATORE"},
+{login:"lcca17"
+,name:"LUIZ CESAR CLABOND ALMEIDA"},
+{login:"lcr11"
+,name:"Leonardo Ceciliato Robaskievicz"},
+{login:"ldac15"
+,name:"LEONARDO D AGOSTINI CHILLEMI"},
+{login:"ldp17"
+,name:"LEONARDO DAVI PAMPLONA"},
+{login:"lds17"
+,name:"LUISA DRUZIK DE SOUZA"},
+{login:"leb10"
+,name:"LUIS EDUARDO BORNANCIN"},
+{login:"lec14"
+,name:"LUIZ EDUARDO CAVALHEIRO"},
+{login:"lefp16"
+,name:"LUCAS EDUARDO FRANCA PADLESKI"},
+{login:"les16"
+,name:"LUIZ EDUARDO SIMOES"},
+{login:"letf17"
+,name:"LEONARDO ERENO TEIXEIRA DE FREITAS"},
+{login:"lfac16"
+,name:"LUIZ FERNANDO AMORIM CHICONATO"},
+{login:"lfar14"
+,name:"LUIZ FELIPE ABRAO REIS"},
+{login:"lfav17"
+,name:"LUIZ FERNANDO AZEVEDO VASCONCELLOS"},
+{login:"lfg13"
+,name:"LUCAS FERREIRA GLIR"},
+{login:"lfkn12"
+,name:"LUIZ FERNANDO KIYOSHI NAKAMOTO"},
+{login:"lfl13"
+,name:"LUIS FELIPE DE LIMA"},
+{login:"lfo14"
+,name:"LUCAS FERNANDES DE OLIVEIRA"},
+{login:"lgjr15"
+,name:"LUIZ GUSTAVO JHON RODRIGUES"},
+{login:"lgl15"
+,name:"LUCAS GABRIEL LIMA"},
+{login:"lgms17"
+,name:"LUAN GABRIEL MARQUES DOS SANTOS"},
+{login:"lgmsa13"
+,name:"LUIS GUILHERME MARINHO DOS SANTOS ALMEIDA"},
+{login:"lgsm15"
+,name:"LETICIA GIOVANA SALES MARQUES"},
+{login:"lhcs15"
+,name:"LUIZ HENRIQUE COSTA SOUZA"},
+{login:"ljt15"
+,name:"LEONARDO JOJI TAKII"},
+{login:"llf15"
+,name:"LAION LUIS FERREIRA"},
+{login:"lmm15"
+,name:"LORIEN MAITE MOISYN"},
+{login:"lmmb15"
+,name:"LUIS MATEUS MEDEIROS BOSSI"},
+{login:"lmwc14"
+,name:"LUIZA MARIA WILLE CULAU"},
+{login:"lo12"
+,name:"LUKAS OSTERMAYER"},
+{login:"lo15"
+,name:"LUCAS OLINI"},
+{login:"lp14"
+,name:"LETICIA PASDIORA"},
+{login:"lrh15"
+,name:"LEONARDO RIBEIRO HAKOYAMA"},
+{login:"lrs13"
+,name:"LUCAS ROSA DA SILVA"},
+{login:"lrs14"
+,name:"LUCAS ROMANO SANTOS"},
+{login:"ls16"
+,name:"LEONARDO STEFAN"},
+{login:"ls17"
+,name:"LUCAS SULZBACH"},
+{login:"lsf16"
+,name:"LUCAS SAMPAIO FRANCO"},
+{login:"lsl16"
+,name:"LAURA SILVA LOPES"},
+{login:"lsm12"
+,name:"LUCAS SILVA MARTINS"},
+{login:"lss16"
+,name:"LUCAS SIDNEI DOS SANTOS"},
+{login:"lvcz10"
+,name:"LEONARDO VINICIUS CARVALHO ZANELLA"},
+{login:"lvpr17"
+,name:"LUIZ VICTOR PRESTES RAMOS"},
+{login:"lvs16"
+,name:"LEGTON VICENTE DE SOUZA"},
+{login:"lvsg15"
+,name:"LUCAS VINICIUS SEMPREBOM GONCALVES"},
+{login:"lvw15"
+,name:"LUAN VARASCHIM WELTER"},
+{login:"lwa17"
+,name:"LUCAS WINTER AMARAL"},
+{login:"lwr10"
+,name:"LEONARDO WEISS RIBEIRO"},
+{login:"ma10"
+,name:"MARCIO ANDREATTI"},
+{login:"maa16"
+,name:"MATHEUS DE ALMEIDA ARSENO"},
+{login:"mab16"
+,name:"MARCO ANTONIO BASSO"},
+{login:"mafd17"
+,name:"MARCUS AUGUSTO FERREIRA DUDEQUE"},
+{login:"mam15"
+,name:"MATHEUS ARMANI MALDONADO"},
+{login:"mapm12"
+,name:"MARCO ANTONIO PIO MENDES"},
+{login:"mas16"
+,name:"MARCO ANTONIO DA SILVA"},
+{login:"mbc17"
+,name:"MICHEL BRASIL CORDEIRO"},
+{login:"mbz17"
+,name:"MATHEUS BURATTI ZAGONEL"},
+{login:"mch15"
+,name:"MATHEUS DE CAMPOS HORSTMANN"},
+{login:"mdc17"
+,name:"MATHEUS DIONYSIO CLASSE"},
+{login:"mdms14"
+,name:"MATHEUS DONIZETE MATOS DA SILVA"},
+{login:"mee14"
+,name:"MARSELHA ELOISA ESPLUGUES"},
+{login:"mezl17"
+,name:"MARIA EDUARDA ZEN LEMES"},
+{login:"mffs17"
+,name:"MATHEUS FIALHO FERREIRA DOS SANTOS"},
+{login:"mfm13"
+,name:"MAICK FONSECA MAIA"},
+{login:"mfsc12"
+,name:"MARCELO FERREIRA DA SILVA CARDOSO"},
+{login:"mgg12"
+,name:"MAURICIO GIACOMINI GIRARDELLO"},
+{login:"mgh16"
+,name:"MARLON GRIEBELER DA HORA"},
+{login:"mhps16"
+,name:"MATHEUS HENRIQUE PRUDENCIO SUBRINHO"},
+{login:"mlas12"
+,name:"MATHEUS LIMA ANDRADE DA SILVA"},
+{login:"mm16"
+,name:"MAYSON MORENO"},
+{login:"mmc16"
+,name:"MATHEUS DE MORAES CAVAZOTTI"},
+{login:"mmgd13"
+,name:"MARIANA MACHADO GARCEZ DUARTE"},
+{login:"mmm17"
+,name:"MATEUS MARINHO MONTEIRO"},
+{login:"mms15"
+,name:"MICHEL MELO DE SOUZA"},
+{login:"mms16"
+,name:"MICHAEL MASSAO SHOYA"},
+{login:"mpn17"
+,name:"MIGUEL PHILIPO NUNES"},
+{login:"mrb17"
+,name:"MARIANA REGINA BASSO"},
+{login:"mrc13"
+,name:"MATHEUS ROTONDANO DE CAMARGO"},
+{login:"mrlm15"
+,name:"MATEUS RAVEDUTTI LUCIO MACHADO"},
+{login:"mro15"
+,name:"MARCELA RIBEIRO DE OLIVEIRA"},
+{login:"ms10"
+,name:"MAXWELL SCHNER"},
+{login:"ms17"
+,name:"MARCELO DOS SANTOS"},
+{login:"mtka17"
+,name:"MARIA TERESA KRAVETZ ANDRIOLI"},
+{login:"mwcm17"
+,name:"MARLLON WESLLEY CABRAL MARQUES"},
+{login:"myls17"
+,name:"MATHEUS YUKIO LOPES SHIMAZU"},
+{login:"nbn14"
+,name:"NICKOLAS BURANELLO NEVES"},
+{login:"nc18"
+,name:"nomec cde"},
+{login:"nd18"
+,name:"nomed def"},
+{login:"ndm17"
+,name:"NICOLAS DENCKER DE MARCO"},
+{login:"nfp10"
+,name:"NICOLLY FERREIRA PINTO"},
+{login:"nk14"
+,name:"NIKOLAS KOETHER"},
+{login:"nmb12"
+,name:"NICOLE MARTINELLI BRUM"},
+{login:"nmc16"
+,name:"NICHOLAS MARSHALL CORDEIRO"},
+{login:"ns17"
+,name:"NICOLLAS SAQUE"},
+{login:"nsb14"
+,name:"NAIAN DA SILVA BARROS"},
+{login:"omdj17"
+,name:"ODAIR MARIO DITKUN JUNIOR"},
+{login:"pasr13"
+,name:"PAOLO ANDREAS STALL RECHIA"},
+{login:"pb00"
+,name:"PAULO BARAN"},
+{login:"pbd17"
+,name:"PEDRO BOCCARDO DENARDIN"},
+{login:"pcacr15"
+,name:"PAULO CESAR DE ARAUJO CLAUDINO RAFAEL"},
+{login:"pdg16"
+,name:"PEDRO DEMARCHI GOMES"},
+{login:"pemk15"
+,name:"PATRICK EDUARDO MARCHOR KARVAT"},
+{login:"pgi13"
+,name:"PAULO GUILHERME INCA"},
+{login:"pha14"
+,name:"PEDRO HENRIQUE ALMEIDA"},
+{login:"phcs09"
+,name:"PEDRO HENRIQUE CAVALCANTE SA"},
+{login:"plsm16"
+,name:"PEDRO LUIZ DE SOUZA MOREIRA"},
+{login:"pwkc16"
+,name:"PETERSON WAGNER KAVA DE CARVALHO"},
+{login:"rc11"
+,name:"RODRIGO CANDIDO GRYZINSKI"},
+{login:"rcc13"
+,name:"RENE CARATIN CUSUMANO"},
+{login:"rce16"
+,name:"RUDOLF COPI ECKELBERG"},
+{login:"rcf12"
+,name:"RODRIGO DA CUNHA FREITAS"},
+{login:"rcp12"
+,name:"RAFAEL CAPACI PEREIRA"},
+{login:"rcr13"
+,name:"RODRIGO CAMARGO DOS REIS"},
+{login:"rcr15"
+,name:"RENAN CORDEIRO RAMOS"},
+{login:"rcs17"
+,name:"RICARDO CARVALHO DOS SANTOS"},
+{login:"rgc12"
+,name:"RAFAEL GOMES DE CASTRO"},
+{login:"rkm17"
+,name:"RAPHAEL KAVIAK MACHNICKI"},
+{login:"rl16"
+,name:"RODRIGO LAUERTI"},
+{login:"rlb12"
+,name:"RENAN LUCIANO BURDA"},
+{login:"rll12"
+,name:"RENAN LAURIANO DE LARA"},
+{login:"rls07"
+,name:"RICARDO LUIZ DE SOUSA"},
+{login:"rmc14"
+,name:"RAFAEL MORAIS DA CUNHA"},
+{login:"rms16"
+,name:"RODRIGO MACHNIEWICZ SOKULSKI"},
+{login:"rnm16"
+,name:"RICARDO NORIO MIYATA"},
+{login:"rpd17"
+,name:"RAFAEL DE PAULO DIAS"},
+{login:"rrs17"
+,name:"RENATO RIBEIRO DA SILVA"},
+{login:"rsc15"
+,name:"RAFAEL SANFELICE CASTILHO"},
+{login:"rsco15"
+,name:"RAFAEL STAVITSKI COSTA DE OLIVEIRA"},
+{login:"rsj12"
+,name:"REGINALDO DOS SANTOS JUNIOR"},
+{login:"rso15"
+,name:"ROBERTSON SIQUEIRA OLIVEIRA"},
+{login:"rst17"
+,name:"ROBERTA SAMISTRARO TOMIGIAN"},
+{login:"rt05"
+,name:"RICARDO TOSIN"},
+{login:"rtmd10"
+,name:"Rodrigo de Toledo Montandon Dumont"},
+{login:"rwvcn10"
+,name:"RAFAEL W VENCESLAU C DO NASCIMENTO"},
+{login:"ryh14"
+,name:"RICARDO YASUO HIRANO"},
+{login:"rykk16"
+,name:"RODRIGO YUJI KOGA KURODA"},
+{login:"rym12"
+,name:"RODRIGO YUKIO MISUGI"},
+{login:"safa07"
+,name:"SILVIO ALFREDO FAVARO ANTUNES"},
+{login:"sba16"
+,name:"STEPHANIE BRIERE AMERICO"},
+{login:"sbs10"
+,name:"STEPHAN BARROS SUMI"},
+{login:"shmf17"
+,name:"SAVIO HENRIQUE MONTEIRO FRANCO"},
+{login:"sir17"
+,name:"SABRY INACIO RAFRAFI"},
+{login:"slrc15"
+,name:"SAMUEL LUCAS RIBEIRO CORTEZ"},
+{login:"smr17"
+,name:"SAYURI MORIKANE RIBEIRO"},
+{login:"tas17"
+,name:"THALES AGAPITO SOUSA"},
+{login:"tcs12"
+,name:"THIAGO DE CAMPOS SCHMOCKEL"},
+{login:"thcf16"
+,name:"TALITA HALBOTH CUNHA FERNANDES"},
+{login:"tja14"
+,name:"THIAGO JORGE ABDO"},
+{login:"tms17"
+,name:"THIAGO MACHADO DA SILVA"},
+{login:"trd11"
+,name:"TULIO ROBERTO DIAS"},
+{login:"tsts17"
+,name:"THAUAN DE SOUZA TAVARES DA SILVA"},
+{login:"vc16"
+,name:"VICTOR CURVELO"},
+{login:"vdb12"
+,name:"VICTOR DURAN BARROSO"},
+{login:"vfpp16"
+,name:"VINICIOS DE FARIA PELISSARI PEREIRA"},
+{login:"vhs10"
+,name:"VICTOR HUGO DOS SANTOS"},
+{login:"vlp14"
+,name:"VICTOR LUIS PERSZEL"},
+{login:"vp16"
+,name:"VICTOR PICUSSA"},
+{login:"vra17"
+,name:"VICTOR ROCHA DE ABREU"},
+{login:"vsbc14"
+,name:"VYTOR DOS SANTOS BEZERRA CALIXTO"},
+{login:"wac13"
+,name:"WANDERLAN ALECIO DE CARVALHO"},
+{login:"wgvs16"
+,name:"WELLINGTON GABRIEL VICENTE DE SOUZA"},
+{login:"whan13"
+,name:"WILLIAN HOFFMANN ALCANTE DO NASCIMENTO"},
+{login:"wjhj10"
+,name:"WALTER JOSE HORNING JUNIOR"},
+{login:"wmm14"
+,name:"WILLIAN MARCEL MOSSON"},
+{login:"wpd11"
+,name:"WAGNER PENTEADO DUNIN"},
+{login:"wsss11"
+,name:"WILLIAN SCHELLES SABINO DA SILVA"},
+{login:"xam15"
+,name:"XENOCRATES AMON MELLO"},
+]
