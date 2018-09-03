@@ -1,6 +1,7 @@
-# Oracle
+# DEPRECATED < Oracle >
 
 This project was developed to be used by computer science students from Federal University of Parana during an event of the University. It pretends to be a "oracle" giving a random undergraduate degree for students that are going to do an Entry Test for the University. It kind of works like The Sorting Hat.
+PETComputacaoUFPR deprecated
 
 # Getting Started
 
@@ -22,4 +23,3 @@ In order to run the oracle:
 - freenect = 0.5.3
 - PIL 5.1.0
 - textwrap
-
