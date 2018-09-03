@@ -1,6 +1,6 @@
 # Oracle
 
-This project was developed to be used by computer science students from Federal University of Parana, to be used during an event of the University. It pretendes to be a "oracle" giving a random undergraduate degree for students that are going to do an Entry Test for the University. It kind of works like The Sorting Hat.
+This project was developed to be used by computer science students from Federal University of Parana, to be used during an event of the University. It pretends to be a "oracle" giving a random undergraduate degree for students that are going to do an Entry Test for the University. It kind of works like The Sorting Hat.
 
 # Getting Started
 
@@ -19,7 +19,7 @@ In order to run the oracle:
 - python = 3.6.5
 - face_recognition
 - cv2 = 3.4.2
-- freenect
+- freenect = 0.5.3
 - PIL 5.1.0
 - textwrap
 
